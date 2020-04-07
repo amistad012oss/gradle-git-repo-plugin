@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>com.github.amistad012oss</groupId>
+  <groupId>com.github.amistad012oss.gradle</groupId>
   <artifactId>git-repo-plugin</artifactId>
   <versioning>
     <latest>1.0.0</latest>
@@ -8,6 +8,6 @@
     <versions>
       <version>1.0.0</version>
     </versions>
-    <lastUpdated>20200407022652</lastUpdated>
+    <lastUpdated>20200407045808</lastUpdated>
   </versioning>
 </metadata>

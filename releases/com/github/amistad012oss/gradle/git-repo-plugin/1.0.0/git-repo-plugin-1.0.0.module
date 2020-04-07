@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "com.github.amistad012oss",
+    "group": "com.github.amistad012oss.gradle",
     "module": "git-repo-plugin",
     "version": "1.0.0",
     "attributes": {
@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.3",
-      "buildId": "wx6dehskmbfflahtjfmoqz6fsm"
+      "buildId": "blw5wqapl5abhmv26hpokwt6v4"
     }
   },
   "variants": [
@@ -28,11 +28,11 @@
         {
           "name": "git-repo-plugin-1.0.0.jar",
           "url": "git-repo-plugin-1.0.0.jar",
-          "size": 27424,
-          "sha512": "1d9a7ac319309ecdcbf4aac5e3e5f430487e382eeaf9932b3a7087f7c10b2708d4a981b1f9e17a9d45a4a320a7f5cb1e301056af685915ad413b1354a4aa2bb0",
-          "sha256": "15caa4439282a39fbdb92bdba21bac69fcb484ad949b5bd27c0257f49c238ed1",
-          "sha1": "06b353f705e6edfa4436f4762e5780d6a11eedfb",
-          "md5": "f832b527aa8aac14e5c9a70c578f75ec"
+          "size": 27077,
+          "sha512": "c241c3ad815f642d97752b2d70e23f210c7301aabe018393ebdade4e9f2afdd101f96af1fbf7ed88b436f7a2973eb8729e6f8f32923528eef2ded2c619817fb2",
+          "sha256": "ffcf57c86fb7cb9a0d08960087b5797dd31ebf3deee1767af6aebf439997ae4b",
+          "sha1": "05e9988b0c7be69d31af94d2b88bba1f2cbb9bc4",
+          "md5": "d16f50c169005185b93beed5c0290100"
         }
       ]
     },
@@ -49,11 +49,11 @@
         {
           "name": "git-repo-plugin-1.0.0.jar",
           "url": "git-repo-plugin-1.0.0.jar",
-          "size": 27424,
-          "sha512": "1d9a7ac319309ecdcbf4aac5e3e5f430487e382eeaf9932b3a7087f7c10b2708d4a981b1f9e17a9d45a4a320a7f5cb1e301056af685915ad413b1354a4aa2bb0",
-          "sha256": "15caa4439282a39fbdb92bdba21bac69fcb484ad949b5bd27c0257f49c238ed1",
-          "sha1": "06b353f705e6edfa4436f4762e5780d6a11eedfb",
-          "md5": "f832b527aa8aac14e5c9a70c578f75ec"
+          "size": 27077,
+          "sha512": "c241c3ad815f642d97752b2d70e23f210c7301aabe018393ebdade4e9f2afdd101f96af1fbf7ed88b436f7a2973eb8729e6f8f32923528eef2ded2c619817fb2",
+          "sha256": "ffcf57c86fb7cb9a0d08960087b5797dd31ebf3deee1767af6aebf439997ae4b",
+          "sha1": "05e9988b0c7be69d31af94d2b88bba1f2cbb9bc4",
+          "md5": "d16f50c169005185b93beed5c0290100"
         }
       ]
     }
