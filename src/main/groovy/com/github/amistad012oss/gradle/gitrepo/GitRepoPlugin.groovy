@@ -1,4 +1,4 @@
-package com.layer.gradle.gitrepo
+package com.github.amistad012oss.gradle.gitrepo
 
 import org.gradle.api.Plugin
 import org.gradle.api.Project
