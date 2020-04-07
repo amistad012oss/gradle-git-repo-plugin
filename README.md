@@ -25,10 +25,10 @@ This plugin needs to be added via the standard plugin mechanism with this builds
 
     buildscript {
         repositories {
-            maven { url "https://github.com/layerhq/releases-gradle/raw/master/releases" }
+	    maven { url "https://github.com/amistad012oss/gradle-git-repo-plugin/raw/master/releases" }
         }
         dependencies {
-            classpath group: 'com.layer', name: 'git-repo-plugin', version: '1.0.0'
+	    classpath 'com.gitlab.amistad012oss:git-repo-plugin:1.0.0'
         }
     }
 
