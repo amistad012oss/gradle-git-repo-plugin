@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "com.gitlab.amistad012oss",
+    "group": "com.github.amistad012oss",
     "module": "git-repo-plugin",
     "version": "1.0.0",
     "attributes": {
@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.3",
-      "buildId": "qm5dtuoaajdqhai5hu2sj445sm"
+      "buildId": "wx6dehskmbfflahtjfmoqz6fsm"
     }
   },
   "variants": [
@@ -29,10 +29,10 @@
           "name": "git-repo-plugin-1.0.0.jar",
           "url": "git-repo-plugin-1.0.0.jar",
           "size": 27424,
-          "sha512": "346d51a468e5a53bada49c9580a19e69b5e1fd265d0ccaa0ae900a3575b62db92a317086ce747d6b871b95436ff8f5e82a819374c5787cb27c310cf17ee5f590",
-          "sha256": "4a664390c8e4c7e8f229b25c42d4823661e3054ff3ea21a9a0a2eff0b365b82e",
-          "sha1": "0965df91b1ebf3a885db47ed62fa9d9b65c2bc8b",
-          "md5": "465adbb5a286f1b43b036c4239b441cf"
+          "sha512": "1d9a7ac319309ecdcbf4aac5e3e5f430487e382eeaf9932b3a7087f7c10b2708d4a981b1f9e17a9d45a4a320a7f5cb1e301056af685915ad413b1354a4aa2bb0",
+          "sha256": "15caa4439282a39fbdb92bdba21bac69fcb484ad949b5bd27c0257f49c238ed1",
+          "sha1": "06b353f705e6edfa4436f4762e5780d6a11eedfb",
+          "md5": "f832b527aa8aac14e5c9a70c578f75ec"
         }
       ]
     },
@@ -50,10 +50,10 @@
           "name": "git-repo-plugin-1.0.0.jar",
           "url": "git-repo-plugin-1.0.0.jar",
           "size": 27424,
-          "sha512": "346d51a468e5a53bada49c9580a19e69b5e1fd265d0ccaa0ae900a3575b62db92a317086ce747d6b871b95436ff8f5e82a819374c5787cb27c310cf17ee5f590",
-          "sha256": "4a664390c8e4c7e8f229b25c42d4823661e3054ff3ea21a9a0a2eff0b365b82e",
-          "sha1": "0965df91b1ebf3a885db47ed62fa9d9b65c2bc8b",
-          "md5": "465adbb5a286f1b43b036c4239b441cf"
+          "sha512": "1d9a7ac319309ecdcbf4aac5e3e5f430487e382eeaf9932b3a7087f7c10b2708d4a981b1f9e17a9d45a4a320a7f5cb1e301056af685915ad413b1354a4aa2bb0",
+          "sha256": "15caa4439282a39fbdb92bdba21bac69fcb484ad949b5bd27c0257f49c238ed1",
+          "sha1": "06b353f705e6edfa4436f4762e5780d6a11eedfb",
+          "md5": "f832b527aa8aac14e5c9a70c578f75ec"
         }
       ]
     }
