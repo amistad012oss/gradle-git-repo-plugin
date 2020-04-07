@@ -1,0 +1,61 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.gitlab.amistad012oss",
+    "module": "git-repo-plugin",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.3",
+      "buildId": "qm5dtuoaajdqhai5hu2sj445sm"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "git-repo-plugin-1.0.0.jar",
+          "url": "git-repo-plugin-1.0.0.jar",
+          "size": 27424,
+          "sha512": "346d51a468e5a53bada49c9580a19e69b5e1fd265d0ccaa0ae900a3575b62db92a317086ce747d6b871b95436ff8f5e82a819374c5787cb27c310cf17ee5f590",
+          "sha256": "4a664390c8e4c7e8f229b25c42d4823661e3054ff3ea21a9a0a2eff0b365b82e",
+          "sha1": "0965df91b1ebf3a885db47ed62fa9d9b65c2bc8b",
+          "md5": "465adbb5a286f1b43b036c4239b441cf"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "git-repo-plugin-1.0.0.jar",
+          "url": "git-repo-plugin-1.0.0.jar",
+          "size": 27424,
+          "sha512": "346d51a468e5a53bada49c9580a19e69b5e1fd265d0ccaa0ae900a3575b62db92a317086ce747d6b871b95436ff8f5e82a819374c5787cb27c310cf17ee5f590",
+          "sha256": "4a664390c8e4c7e8f229b25c42d4823661e3054ff3ea21a9a0a2eff0b365b82e",
+          "sha1": "0965df91b1ebf3a885db47ed62fa9d9b65c2bc8b",
+          "md5": "465adbb5a286f1b43b036c4239b441cf"
+        }
+      ]
+    }
+  ]
+}
