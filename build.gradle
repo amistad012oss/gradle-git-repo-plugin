@@ -22,18 +22,19 @@ dependencies {
 }
 
 version = '1.0.0'
-group = 'com.github.amistad012oss'
+group = 'com.github.amistad012oss.gradle'
 
+// config for com.gradle.plugin-publish plugin
 pluginBundle {
-    website = 'https://github.com/amistad012oss/gradle-git-repo-plugin/'
-    vcsUrl = 'https://github.com/amistad012oss/gradle-git-repo-plugin/'
+    website = 'https://github.com/amistad012oss/gradle-git-repo-plugin'
+    vcsUrl = 'https://github.com/amistad012oss/gradle-git-repo-plugin'
     description = 'This plugin allows you to add a git repository as a maven repo, even if the git repository is private, similar to how CocoaPods works.'
-    tags = ['git-repo', 'private repository']
+    tags = ['git', 'repository', 'maven']
 
     plugins {
         gitRepoPlugin {
-            id = 'com.amistad012oss.git-repo'
-            displayName = 'Git Repo Plugin'
+            id = 'com.github.amistad012oss.gradle.git-repo-plugin'
+            displayName = 'Gradle git repo plugin'
         }
     }
 }
