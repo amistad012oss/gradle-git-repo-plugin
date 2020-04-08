@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.3",
-      "buildId": "cljwde45gvg6dkhirzp2up5yfm"
+      "buildId": "x5icyeudi5bdxmsty3tzeypmqa"
     }
   },
   "variants": [
@@ -29,10 +29,10 @@
           "name": "git-repo-plugin-1.0.0.jar",
           "url": "git-repo-plugin-1.0.0.jar",
           "size": 27997,
-          "sha512": "980183c65395b59ca6cffca31452b91d92ec4b1d49e620da39c81fe926ab84b12840ce9708c42da48f3c6bb4b1c7155a36d473c751ff3aad132208e48a1e52cf",
-          "sha256": "23e4ae2834665a9c8da01ccc644ce3100fa7e67834d91fc0dcb52c5074f91f48",
-          "sha1": "c10339917912905d0d370a66ec70fcff779921dd",
-          "md5": "29b08783a9a18d2a46abfdf06660774c"
+          "sha512": "22147a8fb2afeed12008a19df0cc7650b8696c718d202349c72bacc0035ac83153f14f0d06afa5dc2dbcf9933fdf79abc5727a951a03f9e247d9a1015796270e",
+          "sha256": "431a3bbf2750bf8a7dc349033913dbba094f540163efe17d4e6d197c70e7af3b",
+          "sha1": "707358afa8a286d72fbc5fb2ebed6c69fb28acda",
+          "md5": "aec679cce5c7d198e0a959e6dbdbf22d"
         }
       ]
     },
@@ -50,10 +50,10 @@
           "name": "git-repo-plugin-1.0.0.jar",
           "url": "git-repo-plugin-1.0.0.jar",
           "size": 27997,
-          "sha512": "980183c65395b59ca6cffca31452b91d92ec4b1d49e620da39c81fe926ab84b12840ce9708c42da48f3c6bb4b1c7155a36d473c751ff3aad132208e48a1e52cf",
-          "sha256": "23e4ae2834665a9c8da01ccc644ce3100fa7e67834d91fc0dcb52c5074f91f48",
-          "sha1": "c10339917912905d0d370a66ec70fcff779921dd",
-          "md5": "29b08783a9a18d2a46abfdf06660774c"
+          "sha512": "22147a8fb2afeed12008a19df0cc7650b8696c718d202349c72bacc0035ac83153f14f0d06afa5dc2dbcf9933fdf79abc5727a951a03f9e247d9a1015796270e",
+          "sha256": "431a3bbf2750bf8a7dc349033913dbba094f540163efe17d4e6d197c70e7af3b",
+          "sha1": "707358afa8a286d72fbc5fb2ebed6c69fb28acda",
+          "md5": "aec679cce5c7d198e0a959e6dbdbf22d"
         }
       ]
     }
