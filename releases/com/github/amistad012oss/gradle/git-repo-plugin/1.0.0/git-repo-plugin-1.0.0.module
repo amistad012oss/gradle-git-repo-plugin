@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.3",
-      "buildId": "nkicoeqm2nfplo3ynlnwngvhja"
+      "buildId": "cljwde45gvg6dkhirzp2up5yfm"
     }
   },
   "variants": [
@@ -28,11 +28,11 @@
         {
           "name": "git-repo-plugin-1.0.0.jar",
           "url": "git-repo-plugin-1.0.0.jar",
-          "size": 27933,
-          "sha512": "83e89cb6c43a6ffd5e9a59e049d5d502b34021986dca7b8c1394589e4674bd28e193b4b20e4fdfd26c4855c42fcc4662e17c3cf1595670cb5c341c29cb425c6a",
-          "sha256": "57eb3a0b9525c605331f5426278d14f1c5f6a383d3f6093fd268376b05d18f49",
-          "sha1": "67247ceb32d1184aa21874e5fd682b065bd65aaa",
-          "md5": "a284774529359a5bcc2720bec917407b"
+          "size": 27997,
+          "sha512": "980183c65395b59ca6cffca31452b91d92ec4b1d49e620da39c81fe926ab84b12840ce9708c42da48f3c6bb4b1c7155a36d473c751ff3aad132208e48a1e52cf",
+          "sha256": "23e4ae2834665a9c8da01ccc644ce3100fa7e67834d91fc0dcb52c5074f91f48",
+          "sha1": "c10339917912905d0d370a66ec70fcff779921dd",
+          "md5": "29b08783a9a18d2a46abfdf06660774c"
         }
       ]
     },
@@ -49,11 +49,11 @@
         {
           "name": "git-repo-plugin-1.0.0.jar",
           "url": "git-repo-plugin-1.0.0.jar",
-          "size": 27933,
-          "sha512": "83e89cb6c43a6ffd5e9a59e049d5d502b34021986dca7b8c1394589e4674bd28e193b4b20e4fdfd26c4855c42fcc4662e17c3cf1595670cb5c341c29cb425c6a",
-          "sha256": "57eb3a0b9525c605331f5426278d14f1c5f6a383d3f6093fd268376b05d18f49",
-          "sha1": "67247ceb32d1184aa21874e5fd682b065bd65aaa",
-          "md5": "a284774529359a5bcc2720bec917407b"
+          "size": 27997,
+          "sha512": "980183c65395b59ca6cffca31452b91d92ec4b1d49e620da39c81fe926ab84b12840ce9708c42da48f3c6bb4b1c7155a36d473c751ff3aad132208e48a1e52cf",
+          "sha256": "23e4ae2834665a9c8da01ccc644ce3100fa7e67834d91fc0dcb52c5074f91f48",
+          "sha1": "c10339917912905d0d370a66ec70fcff779921dd",
+          "md5": "29b08783a9a18d2a46abfdf06660774c"
         }
       ]
     }
