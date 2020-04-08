@@ -25,16 +25,16 @@ This plugin needs to be added via the standard plugin mechanism with this builds
 
     buildscript {
         repositories {
-	    maven { url "https://github.com/amistad012oss/gradle-git-repo-plugin/raw/master/releases" }
+            maven { url "https://github.com/amistad012oss/gradle-git-repo-plugin/raw/master/releases" }
         }
         dependencies {
-	    classpath 'com.github.amistad012oss.gradle:git-repo-plugin:1.0.0'
+            classpath 'com.github.amistad012oss.gradle:git-repo-plugin:1.0.0'
         }
     }
 
 and then apply the plugin
 
-    apply plugin: 'git-repo'
+    apply plugin: 'com.github.amistad012oss.gradle.git-repo-plugin'
 
 
 ### Depending on github repos
