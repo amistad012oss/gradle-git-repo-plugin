@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.3",
-      "buildId": "do7c4ijqg5fqtd5n2csamtmlqu"
+      "buildId": "nkicoeqm2nfplo3ynlnwngvhja"
     }
   },
   "variants": [
@@ -29,10 +29,10 @@
           "name": "git-repo-plugin-1.0.0.jar",
           "url": "git-repo-plugin-1.0.0.jar",
           "size": 27933,
-          "sha512": "be8c801f4f9567d6c75cd9ca6f2e56c1ba74527052fa4f2648c41dc2f0fb5fb184cfa810b1762246a7349545f7ffca7c83117910af3c2b8d2d22e52f622d3386",
-          "sha256": "782e50bdea0087d7e5881cba35b11477a698a9f2640ddb94dfac153a49e94583",
-          "sha1": "42d9f03bb9b94f5aa900fd51d6279f256d33610b",
-          "md5": "27c69a0335df082ac5f472b73213c54d"
+          "sha512": "83e89cb6c43a6ffd5e9a59e049d5d502b34021986dca7b8c1394589e4674bd28e193b4b20e4fdfd26c4855c42fcc4662e17c3cf1595670cb5c341c29cb425c6a",
+          "sha256": "57eb3a0b9525c605331f5426278d14f1c5f6a383d3f6093fd268376b05d18f49",
+          "sha1": "67247ceb32d1184aa21874e5fd682b065bd65aaa",
+          "md5": "a284774529359a5bcc2720bec917407b"
         }
       ]
     },
@@ -50,10 +50,10 @@
           "name": "git-repo-plugin-1.0.0.jar",
           "url": "git-repo-plugin-1.0.0.jar",
           "size": 27933,
-          "sha512": "be8c801f4f9567d6c75cd9ca6f2e56c1ba74527052fa4f2648c41dc2f0fb5fb184cfa810b1762246a7349545f7ffca7c83117910af3c2b8d2d22e52f622d3386",
-          "sha256": "782e50bdea0087d7e5881cba35b11477a698a9f2640ddb94dfac153a49e94583",
-          "sha1": "42d9f03bb9b94f5aa900fd51d6279f256d33610b",
-          "md5": "27c69a0335df082ac5f472b73213c54d"
+          "sha512": "83e89cb6c43a6ffd5e9a59e049d5d502b34021986dca7b8c1394589e4674bd28e193b4b20e4fdfd26c4855c42fcc4662e17c3cf1595670cb5c341c29cb425c6a",
+          "sha256": "57eb3a0b9525c605331f5426278d14f1c5f6a383d3f6093fd268376b05d18f49",
+          "sha1": "67247ceb32d1184aa21874e5fd682b065bd65aaa",
+          "md5": "a284774529359a5bcc2720bec917407b"
         }
       ]
     }
