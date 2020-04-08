@@ -21,7 +21,6 @@ dependencies {
     compile localGroovy()
 }
 
-version = '1.0.0'
 group = 'com.github.amistad012oss.gradle'
 
 // config for com.gradle.plugin-publish plugin
